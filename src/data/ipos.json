@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "OYO",
+    "subname": "OYO Private Limited",
+    "logo": "/oyo-logo.png",
+    "issue_date": "4th-7th Oct 2022",
+    "issue_size_min": 3600,
+    "issue_size_max": 3700,
+    "price_range_start": 50,
+    "price_range_end": 60,
+    "min_invest": 50000,
+    "shares_per_qty": "150 shares/lots",
+    "listed_on": "15 Dec 2023",
+    "about_company": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph. We created the Random Paragraph Generator with you in mind. The process is quite simple. Choose the number of random paragraphs you'd like to see and click the button. Your chosen number of paragraphs will instantly appear",
+    "status": "pending",
+    "gains": 10,
+    "gains_percentage": 10
+  },
+  {
+    "id": 2,
+    "name": "OYO 2",
+    "subname": "OYO Private Limited",
+    "logo": "/oyo-logo.png",
+    "issue_date": "4th-7th Oct 2022",
+    "issue_size_min": 3600,
+    "issue_size_max": 3700,
+    "price_range_start": 50,
+    "price_range_end": 60,
+    "min_invest": 50000,
+    "shares_per_qty": "150 shares/lots",
+    "listed_on": "15 Dec 2023",
+    "about_company": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph. We created the Random Paragraph Generator with you in mind. The process is quite simple. Choose the number of random paragraphs you'd like to see and click the button. Your chosen number of paragraphs will instantly appear",
+    "status": "pending",
+    "gains": 10,
+    "gains_percentage": 10
+  }
+]
